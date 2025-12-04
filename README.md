@@ -1,8 +1,8 @@
 <h1 align="center">👋 Olá! Eu sou o Felipe Nogueira</h1>
-<hr>
 
 
-<div style="display: flex"><br>
+
+<div style="display: flex align-center: center"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
