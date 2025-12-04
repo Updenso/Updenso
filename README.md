@@ -61,5 +61,5 @@
 ---
 
 <p align="center">
-  <i>Building the future one commit at a time! 🚀</i>
+  <i>Kaizen - 1% melhor todo dia</i>
 </p>
