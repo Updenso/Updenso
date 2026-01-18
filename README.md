@@ -40,12 +40,6 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](http://github-profile-summary-cards-esqvyd9su.vercel.app/api/cards/profile-details?username=Updenso&theme=dracula)
-<img src="http://github-profile-summary-cards-esqvyd9su.vercel.app/api/cards/repos-per-language?username=Updenso&theme=dracula" alt="Languages" />
-<img src="http://github-profile-summary-cards-esqvyd9su.vercel.app/api/cards/most-commit-language?username=Updenso&theme=dracula" alt="Most Used Languages" />
-<img src="http://github-profile-summary-cards-esqvyd9su.vercel.app/api/cards/stats?username=Updenso&theme=dracula" alt="Stats" />
 
 ## 🎯 Foco atual
 
